@@ -28,7 +28,7 @@ const About = () => {
             </div>
           </div>
 
-          <p className='my-10 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex porro molestias temporibus iste perferendis culpa aspernatur numquam illum, recusandae distinctio architecto corporis reprehenderit error esse? Minima natus quo quisquam quas.30</p>
+          <p className='my-10 max-w-lg'>Lorem ipsum dolorgit  sit amet consectetur adipisicing elit. Ex porro molestias temporibus iste perferendis culpa aspernatur numquam illum, recusandae distinctio architecto corporis reprehenderit error esse? Minima natus quo quisquam quas.30</p>
           <button className='bg-blue-700 text-white px-8 py-2 rounded cursor-pointer hover:bg-blue-500 hover:text-black'>Learn more</button>
         </div>
       </div>
