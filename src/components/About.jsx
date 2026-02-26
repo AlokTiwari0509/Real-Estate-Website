@@ -37,6 +37,6 @@ const About = () => {
   )
 }
 
-// changes
+// change
 
 export default About
